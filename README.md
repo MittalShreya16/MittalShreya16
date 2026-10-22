@@ -23,8 +23,8 @@ A project I've spent quite a bit of time on — it detects different types of DD
 ### 🔗 Phishing URL Detector
 Built to analyze URLs and identify suspicious patterns and characteristics that could indicate phishing.
 
-### 🏥 MediBook
-A full-stack hospital appointment system where I worked on patient-doctor workflows, appointment booking, and preventing conflicting slots.
+### 🚗 VehicleBook
+A full-stack vehicle rental system I built to handle vehicle listings, bookings, inventory, and dynamic pricing. The backend is built with Spring Boot and MySQL, with REST APIs connecting the different parts of the application.
 
 ## 🌱 What I'm exploring right now
 
