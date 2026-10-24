@@ -1,4 +1,4 @@
-<img align="right" width="190" src="YOUR_IMAGE_URL" alt="Shreya Mittal">
+<img align="right" width="190" src="./shreya.jpg" alt="Shreya Mittal">
 
 # Hi, I'm Shreya 👋
 
