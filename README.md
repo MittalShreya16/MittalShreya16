@@ -2,7 +2,7 @@
 
 # Hi, I'm Shreya 👋
 
-### Software Engineer exploring AI & Cybersecurity
+### Final year student at UPES and Currently exploring AI & Cybersecurity
 
 I'm a Computer Science Engineering student at **UPES, Dehradun**, who enjoys building things, experimenting with new technologies, and figuring out why something doesn't work when it breaks :)
 
