@@ -1,6 +1,6 @@
 <img align="right" width="160" src="./Shreya Mittal.jpg.jpeg" alt="Shreya Mittal">
 
-#### Hi, I'm Shreya 👋
+### Hi, I'm Shreya 👋
 
 ### Final-year CSE @ UPES | Ex-SDE Intern @ Dell | AI & Cybersecurity
 
