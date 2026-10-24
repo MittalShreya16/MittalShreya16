@@ -80,4 +80,4 @@ I enjoy being around people who are curious about what they do — there's usual
 
 ---
 
-*Thanks for stopping by — feel free to look around :)*
+*Thanks for stopping by, feel free to look around :)*
