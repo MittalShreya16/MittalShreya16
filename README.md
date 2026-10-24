@@ -2,7 +2,7 @@
 
 # Hi, I'm Shreya 👋
 
-### Final-year CSE student @ UPES | Ex-SDE Intern @Dell | Exploring AI & Cybersecurity
+### Final-year CSE @ UPES | Ex-SDE Intern @ Dell | AI & Cybersecurity
 
 I'm a Computer Science Engineering student at **UPES, Dehradun**, who enjoys building things, experimenting with new technologies, and figuring out why something doesn't work when it breaks :)
 
